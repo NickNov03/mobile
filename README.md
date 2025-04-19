@@ -29,5 +29,6 @@ git clone https://github.com/NickNov03/mobile.git
 cd maps
 npm install
 npx expo start
+```
 
 Затем в терминале появится QR-код, который нужно отсканировать на телефоне через Expo.
